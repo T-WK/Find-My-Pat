@@ -1,0 +1,3109 @@
+fileFormatVersion: 2
+guid: 79486d2fa45fe914e86e27ff7e40c432
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green_Forest_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 249
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83833a5e58cd4e4aa10bcd5d34ea692
+      internalID: 454613258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 249
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2357402e0bfbf954896f4cde1767eabd
+      internalID: -1237974509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 249
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c06591da5b13bf4eb13aa3a5e8a3aed
+      internalID: 550621953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 249
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1fb4f5209944f48ad6f37adad36256
+      internalID: 1283068250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 249
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10390fa08bf4924f814e47bf6bbba52
+      internalID: 654964024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 249
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c9263676990da4ab363841d54f7967
+      internalID: 269960308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 249
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4f580207a960947ade373727d59815
+      internalID: 169976864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 249
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dff5ece7bfefb94e8e7a6114557f24a
+      internalID: -2085478430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 249
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7422f42bbfb626247ac8da6e63ed83c0
+      internalID: 388396205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 249
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d63ae29b40d75c4d9d4da52d319fa23
+      internalID: -2026478963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 249
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7760bcb8497eaa240beb5bc35e5471b3
+      internalID: 1402832418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 249
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f3bbeca0938314ebdab60ee989a5c0
+      internalID: 84102041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 249
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c55e3ed941381d40a002af4c22216e7
+      internalID: 838218832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 249
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98a099bf7ba33c4b96d6d7a72724d80
+      internalID: -1874990474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 249
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf280f3ecf013b45a8c8c719fc8877b
+      internalID: -52946036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 249
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48872689729444c4991e5da8ad68623f
+      internalID: -1423960756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 249
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f629d5eff984e84099ea468a6dd8a74
+      internalID: -609943789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_17
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 249
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da62a4eead25234f94355ea994011c9
+      internalID: -1502475910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_18
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 249
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec15e87bd225f24298353d804c16540
+      internalID: 925211379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 249
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590fb9070ad0bd743b04b099ed1553bd
+      internalID: -1866382680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 249
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d191ed486591314e8844042f7814ad2
+      internalID: 1085963361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_21
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 249
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034307f1f1cb2b84f96c62bddcf72a9c
+      internalID: -253850559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 249
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c442efbabda01184e85ec07e929a0ac0
+      internalID: 338505464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 232
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b460a162f8401e64aacdd6984c24270f
+      internalID: 1682854310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 232
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636bc6f9943faab45b57fb7704da87bd
+      internalID: -2128777242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_25
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 232
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006fe734edb555d47917eae0c8f36585
+      internalID: 54743953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 232
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e458a3681b97386468f50cf17c65ed4c
+      internalID: 1611884222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 232
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c6c7a633c441e41ac2ac1fbfc98fcf
+      internalID: -18909276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 232
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8ff3aac94f9ec429cee5d3e7cdc40c
+      internalID: -889433258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_29
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 232
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29257996ff714bf429edbadac642baea
+      internalID: 2137990987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_30
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 232
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cd9bdd63f0544499cfb5c3adf3fcf7
+      internalID: 1093513467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 232
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428afc371da9bce49909a96f98fc761f
+      internalID: 1151594481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_32
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 232
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0bbdcf16f0df34f8ed7d473370157a
+      internalID: 1378165201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 210
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8721a1186152204ba80dba1410141c7
+      internalID: -1384261993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_34
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 208
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34518eae962ca840bdd685bf9152537
+      internalID: 2038601815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 210
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2cf0f963f8948418eb0bd06882c80e
+      internalID: -1584651899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 208
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e650792e89608549a8e7eb26e893e2d
+      internalID: -1946569564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 210
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8879237b4fc2df439db4b6b3bd448ff
+      internalID: -1774181368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_38
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 208
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bfa9df74ccd264ba35c790f62eadba
+      internalID: -1992625515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_39
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 210
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cc400f5d92df4498ee4c2e7518cb07
+      internalID: 1144276055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_40
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 209
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e85868ced79434db61622e733f9cee
+      internalID: 1088206425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_41
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 210
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd60527f320697409e3206e7cbb9409
+      internalID: 1190921541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_42
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 208
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bba2c388b02de48929636d3ca759c9
+      internalID: 1572626566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1494e4903c895445b98a6f51d43cfd0
+      internalID: -1277446050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2113115725fb55544bd1cbb003dd2c81
+      internalID: 1028125644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2981f562e8a854946b4769d6a025e7dc
+      internalID: 1260251056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 193
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fea107ddf4eb124eaf6742f8e051cfd
+      internalID: -1284613790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_47
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 193
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bb13c3904d4fc4793d2c133105e310
+      internalID: 418284670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_48
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 193
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975e6e9b12c98ea4abec9c01b1105c8c
+      internalID: -1079382355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_49
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 193
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b391966088f6e104282d8eb9134bd78b
+      internalID: 951373892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_50
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 193
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cff32a4b2fe0743bf73c3f5c78aeea
+      internalID: -536865792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_51
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 193
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20d6569385159d42979611b439b2cf1
+      internalID: -1565793244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_52
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 193
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06861e2a28e773f44941ad38e275e443
+      internalID: -345342792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_53
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 178
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fb58433ac8ebc43a38aa9d53bf345f
+      internalID: -1867714589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 178
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff2aa585d63dfa4faa262465ac9c6c7
+      internalID: -297066698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 178
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c383a1fb945a25047a33661f492b253c
+      internalID: -38183942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5189fca56b082489624915dd1808f9
+      internalID: 1567903573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_57
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 177
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63942b15a4604ee4e9295bea4c8b0875
+      internalID: 1916241270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_58
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1018a246183374dbf3492536799e78
+      internalID: 254022280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_59
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 177
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd99b8111e29b74ba319093aedad13f
+      internalID: -595231603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_60
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a91558d597af642928717740e01b9c
+      internalID: 1576856680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_61
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2ced279452f9d40825a9880419679b
+      internalID: -1246669758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_62
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 177
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9641631d296402a468352a9baef310c4
+      internalID: -1324133485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_63
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 177
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bf18520fe3c55408bc278615691c45
+      internalID: 1082689053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_64
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 177
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb1953a380a9e64cbdd67a69019f76d
+      internalID: 839155433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_65
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da49d247f654aed42954aa64dcde467b
+      internalID: 2085215105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_66
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 162
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69e65d6da15a2d47a4af1aa041d7aff
+      internalID: -887987150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_67
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 162
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a8ba6bf35c2644a84dfba4bb0d0eac
+      internalID: 459527365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_68
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 162
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690d44be4fdca5146b42369779ce4b89
+      internalID: 1346988371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_69
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 160
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b2cea7bcb25294bbbd5564bd5e3667
+      internalID: 311584477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_70
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 161
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f19cde3504e004f8b81e3fbc5d4e84
+      internalID: -242665568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_71
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9d3a5b5f4a33d4382d467c0601cebd
+      internalID: 1745112167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_72
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 161
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be38e25d653cda458f762283d5018f7
+      internalID: 987596377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_73
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d58c6e0dfcba674a883226fe129b6dd
+      internalID: 1798259827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_74
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f47264e259d2147acd36115cad6929
+      internalID: -1364874011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_75
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 161
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31179ee8e5246104cb2df4861ba8884f
+      internalID: -1664570844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_76
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 161
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6937cf13d992ae40b6e522fd0fcf127
+      internalID: -338430067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_77
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 161
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7dd8ed07de79d448f2fd39b757809f
+      internalID: -1632889926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_78
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237a95cd280a71a46951d337980692f4
+      internalID: -613501329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 76
+        width: 120
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb82dd75770e904099ce47b32055b31
+      internalID: -927558753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_80
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 79
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269b59fd68420224c9ec28b18cd278dd
+      internalID: 1805315416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_81
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 82
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb982a943165384bae4e34fea9ebb6a
+      internalID: -822420165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_82
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 86
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316c758e83a83f547bc04d7d5bf86b8d
+      internalID: -1113886703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_83
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 105
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c104e122ee3ad3945b50d5430891e588
+      internalID: 1445705059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21f5dd4827ff964bba60c3cd3841a28
+      internalID: -1592755442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_85
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 10
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ede0c609b44c14882391deaba95264
+      internalID: 1769265730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_86
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 14
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97795fb4deaf8294aa1c347de89dd9b5
+      internalID: 57183380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_87
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 249
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f220da9d68a9c24bb9c244ccf9a8064
+      internalID: -481294530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_88
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 249
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c682e816eebe2848a591c82e203a186
+      internalID: -994020775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_89
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 194
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d73d24f6c5eb74abbf298155e29c2c
+      internalID: -95843751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_90
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add3a2e68655b9f41ae253aa9e158258
+      internalID: 1081875742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_91
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25191934906fb04883e7835b064cbdb
+      internalID: 20786348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_92
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 194
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb656d44fad3c5b4e933403820822e84
+      internalID: 1695032711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_93
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3af43380c91434cb2089793f4b08ee
+      internalID: -1818599049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_94
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 178
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f87d746a76af764398bfa14bb79e703
+      internalID: 774890222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_95
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 178
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950e0a422db0c514c962df54257610cc
+      internalID: 1744931929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_96
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 162
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a21d4077fe47ef448f35b79a20cd9c3
+      internalID: -1071318835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_97
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 162
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98ec548982a5864cb5c871e17de928e
+      internalID: -269870974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_98
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 162
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab42727f96a58314581e144ead1cf4c3
+      internalID: 212324424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_99
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 249
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27fbc1f5101f184d8f52c4168bd77bf
+      internalID: -520104514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_100
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 249
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8416856fc0773479c8b79ad5d5d4d9
+      internalID: 1204538093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_101
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 249
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ab75d7af16eae4ebc25e51701a581e
+      internalID: 2031175847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_102
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 193
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3929a925523bc02419979de11141a0ec
+      internalID: -39939730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_103
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 193
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09721b4a44097444690d8c829e502fad
+      internalID: -1588110717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_104
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 193
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a01b0639cb3fc24e9872e0c0d899491
+      internalID: -458642988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_105
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 193
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abadb6d803687ee4cb02bc96e11e2118
+      internalID: 1915938736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_106
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 177
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198f4bd54bc17b44e87aa36203f2ceb2
+      internalID: -1667119825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_107
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 177
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9650560032e2f444aa402f60f2559b37
+      internalID: 446339051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_108
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 176
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1746579f6282c46aa04b76a5fa2199
+      internalID: -1028254809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_109
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 160
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0529c244382c324395768c35b10565a
+      internalID: 1438676439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_110
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328078562a1d6c94fa2b63c834ce6898
+      internalID: -1450193803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_111
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 161
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd006dfaed4a104fa86ca13dbfa92c6
+      internalID: -429365838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_112
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 249
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20e2333af106fc4f9a2d5188da17723
+      internalID: -266044769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_113
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 249
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c7e3fc12ee97c4e9fa2f70e8eff123
+      internalID: 1925156930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_114
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 193
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baa90256a7cf28408c3a0ece433bea7
+      internalID: 774123330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_115
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 193
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9dc3d2276307848af5bd8491090278
+      internalID: 1848550958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_116
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 193
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd38cc9ffe753a049a5ce31ce92bc905
+      internalID: 1158912639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_117
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 193
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3fee602da857047b8e96f87b0a2eca
+      internalID: -610063667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_118
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 177
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f9d4e7878ccc7438cbe4db0df892fe
+      internalID: 478181123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_119
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cdd20c12b5b4c44a66af22ce14df66
+      internalID: -1064450621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_120
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 161
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce8d465fdc5ef2478eb0bb54ad0d433
+      internalID: -495420539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_121
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a3d5c8ce985084da9a2899c0a3de50
+      internalID: 2133481232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_122
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 193
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1616f99b08b8a41a9f555171637bd4
+      internalID: 488578622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_123
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 193
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d519c438a4413ab4eab58db785bb963c
+      internalID: 797943165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_124
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 177
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8212197b195465247af9586615cfa7b7
+      internalID: 1836545579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_125
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 177
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a534621f80d79499e4b426d01c9a56
+      internalID: 848062640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_126
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 177
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5931b933414f5e4aa3891822bf95162
+      internalID: 1028923207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_127
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d35afe30ce694648977e3a66508fc8e
+      internalID: 1000581348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_128
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415b77cdf5a87564ba9a0bdbfa643924
+      internalID: 1925714827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Forest_129
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 161
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a95e42e56d64a45974a28f4321826a
+      internalID: -1473812092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 630bfe3f6297358448f2fb4855163f33
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Green_Forest_0: 454613258
+      Green_Forest_1: -1237974509
+      Green_Forest_10: 1402832418
+      Green_Forest_100: 1204538093
+      Green_Forest_101: 2031175847
+      Green_Forest_102: -39939730
+      Green_Forest_103: -1588110717
+      Green_Forest_104: -458642988
+      Green_Forest_105: 1915938736
+      Green_Forest_106: -1667119825
+      Green_Forest_107: 446339051
+      Green_Forest_108: -1028254809
+      Green_Forest_109: 1438676439
+      Green_Forest_11: 84102041
+      Green_Forest_110: -1450193803
+      Green_Forest_111: -429365838
+      Green_Forest_112: -266044769
+      Green_Forest_113: 1925156930
+      Green_Forest_114: 774123330
+      Green_Forest_115: 1848550958
+      Green_Forest_116: 1158912639
+      Green_Forest_117: -610063667
+      Green_Forest_118: 478181123
+      Green_Forest_119: -1064450621
+      Green_Forest_12: 838218832
+      Green_Forest_120: -495420539
+      Green_Forest_121: 2133481232
+      Green_Forest_122: 488578622
+      Green_Forest_123: 797943165
+      Green_Forest_124: 1836545579
+      Green_Forest_125: 848062640
+      Green_Forest_126: 1028923207
+      Green_Forest_127: 1000581348
+      Green_Forest_128: 1925714827
+      Green_Forest_129: -1473812092
+      Green_Forest_13: -1874990474
+      Green_Forest_14: -52946036
+      Green_Forest_15: -1423960756
+      Green_Forest_16: -609943789
+      Green_Forest_17: -1502475910
+      Green_Forest_18: 925211379
+      Green_Forest_19: -1866382680
+      Green_Forest_2: 550621953
+      Green_Forest_20: 1085963361
+      Green_Forest_21: -253850559
+      Green_Forest_22: 338505464
+      Green_Forest_23: 1682854310
+      Green_Forest_24: -2128777242
+      Green_Forest_25: 54743953
+      Green_Forest_26: 1611884222
+      Green_Forest_27: -18909276
+      Green_Forest_28: -889433258
+      Green_Forest_29: 2137990987
+      Green_Forest_3: 1283068250
+      Green_Forest_30: 1093513467
+      Green_Forest_31: 1151594481
+      Green_Forest_32: 1378165201
+      Green_Forest_33: -1384261993
+      Green_Forest_34: 2038601815
+      Green_Forest_35: -1584651899
+      Green_Forest_36: -1946569564
+      Green_Forest_37: -1774181368
+      Green_Forest_38: -1992625515
+      Green_Forest_39: 1144276055
+      Green_Forest_4: 654964024
+      Green_Forest_40: 1088206425
+      Green_Forest_41: 1190921541
+      Green_Forest_42: 1572626566
+      Green_Forest_43: -1277446050
+      Green_Forest_44: 1028125644
+      Green_Forest_45: 1260251056
+      Green_Forest_46: -1284613790
+      Green_Forest_47: 418284670
+      Green_Forest_48: -1079382355
+      Green_Forest_49: 951373892
+      Green_Forest_5: 269960308
+      Green_Forest_50: -536865792
+      Green_Forest_51: -1565793244
+      Green_Forest_52: -345342792
+      Green_Forest_53: -1867714589
+      Green_Forest_54: -297066698
+      Green_Forest_55: -38183942
+      Green_Forest_56: 1567903573
+      Green_Forest_57: 1916241270
+      Green_Forest_58: 254022280
+      Green_Forest_59: -595231603
+      Green_Forest_6: 169976864
+      Green_Forest_60: 1576856680
+      Green_Forest_61: -1246669758
+      Green_Forest_62: -1324133485
+      Green_Forest_63: 1082689053
+      Green_Forest_64: 839155433
+      Green_Forest_65: 2085215105
+      Green_Forest_66: -887987150
+      Green_Forest_67: 459527365
+      Green_Forest_68: 1346988371
+      Green_Forest_69: 311584477
+      Green_Forest_7: -2085478430
+      Green_Forest_70: -242665568
+      Green_Forest_71: 1745112167
+      Green_Forest_72: 987596377
+      Green_Forest_73: 1798259827
+      Green_Forest_74: -1364874011
+      Green_Forest_75: -1664570844
+      Green_Forest_76: -338430067
+      Green_Forest_77: -1632889926
+      Green_Forest_78: -613501329
+      Green_Forest_79: -927558753
+      Green_Forest_8: 388396205
+      Green_Forest_80: 1805315416
+      Green_Forest_81: -822420165
+      Green_Forest_82: -1113886703
+      Green_Forest_83: 1445705059
+      Green_Forest_84: -1592755442
+      Green_Forest_85: 1769265730
+      Green_Forest_86: 57183380
+      Green_Forest_87: -481294530
+      Green_Forest_88: -994020775
+      Green_Forest_89: -95843751
+      Green_Forest_9: -2026478963
+      Green_Forest_90: 1081875742
+      Green_Forest_91: 20786348
+      Green_Forest_92: 1695032711
+      Green_Forest_93: -1818599049
+      Green_Forest_94: 774890222
+      Green_Forest_95: 1744931929
+      Green_Forest_96: -1071318835
+      Green_Forest_97: -269870974
+      Green_Forest_98: 212324424
+      Green_Forest_99: -520104514
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

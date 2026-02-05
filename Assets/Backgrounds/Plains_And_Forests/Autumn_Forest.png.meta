@@ -1,0 +1,3109 @@
+fileFormatVersion: 2
+guid: 0abafc780c127b44c8fbccb39836d0c3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Autumn_Forest_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 249
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8387a6cb4d06b449dc3f6722be1161
+      internalID: 1440505575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 249
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abec7a9ad68cd9646a5956510e201bd3
+      internalID: -2116182703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 249
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4231f51c64e902d4ca9d597814f3d68c
+      internalID: 1378090319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 249
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addbcd5bd2ca0fc49afaf9426d3a0bc7
+      internalID: -443712380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_4
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 249
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01aedeaa761e9d644ace9e25cfa7f099
+      internalID: -234049313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 249
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d46d0fb99afa9b43bb7503b0ac3c6c2
+      internalID: -1145055999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 249
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5914bd63d6acd174cbbe7caf8c9f53a7
+      internalID: -301947656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 249
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51303860752938442be269ecbfd604df
+      internalID: -572446601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 249
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b1d2659a4c52b48849c1970e51e7a6
+      internalID: -772250688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 249
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ef7472d62a6884287a85da0ab8ff6e
+      internalID: -1685929690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 249
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ffc90ac28bc094c965a92bced9126a
+      internalID: 1145901353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_17
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 249
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71f5d4a879df314298fa5420db0be0a
+      internalID: 1714551849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_18
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 249
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0167b5464ed894eadaab38c7977161
+      internalID: -2121545323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 249
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e1848df12879947b0cffefc6eec4b6
+      internalID: 1107539575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_20
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 249
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e71cbf691698d4481a544b4ffd14d3
+      internalID: -1142483232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_21
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 249
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23bcde79444fd743a4fd769ee60f104
+      internalID: 1102829380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_22
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 249
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f466633a0d7a059429d57a5c3c5ab82f
+      internalID: -1234003294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 232
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8543b756a93c47d4593d9a9dbf822650
+      internalID: -988400552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 232
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c7c257e4f1afd4f9c106c3d631ae04
+      internalID: -1067419089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_25
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 232
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdec6da4487ba494cac1eed0da9e884d
+      internalID: -971841098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 232
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c03ab7e69b76404a902918f026d9592
+      internalID: -1277842341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 232
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd2ff4c2d307cd45b545c4850fe3e13
+      internalID: 1936082063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 232
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106cefbb1c0c5d44d99f6bf8b1b7bfe7
+      internalID: 831261398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_29
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 232
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e929b9ed91ba5428fb26a8a668c5e4
+      internalID: -437235916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_30
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 232
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca23d60224e0704ba0cc731dddbfa07
+      internalID: -2025484195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 232
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8e6fd61a084da4786f25516c1eff91
+      internalID: -1006320570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_32
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 232
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b24572e94a6bc44cab0654e75c772c8
+      internalID: -873440586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 210
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8360815ed807f384c8fa359b0ae6e128
+      internalID: 1831483033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_34
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 208
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9807c88cb192d4884e6570e8c7eda2
+      internalID: 1570582058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 210
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881ebe097df551d45929e50e888384af
+      internalID: 1852754278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 210
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96163ecccb0d9e1409e66609b59ffc58
+      internalID: -526470310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_39
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 210
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fb7d9186eb45243b285a79c7f75694
+      internalID: 1493615043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_41
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 210
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a425cc10ab75c0344985fee1540bd6ad
+      internalID: -1307294119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_42
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 208
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5618918e5d401f4da6430c06a96dc14
+      internalID: -1306807994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a929f6f8134f3e24fb5be5d0411c723a
+      internalID: 427422540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1f04abf70e72244bdd00827dfe2d0c
+      internalID: 1839629507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abc6d9cee8fa49459fb67e621bf713f
+      internalID: -1405418536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_46
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 193
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992c433becc5436499a629582925f67f
+      internalID: 224500876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_48
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 193
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0537d88d815184fb6c9bf3355ec5b8
+      internalID: 948266363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_49
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 193
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04669b301c2b93545981c03ad078568d
+      internalID: 1281364405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_50
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 193
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5122fbdae93bda14998339e0c471ac48
+      internalID: 807338334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_51
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 193
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cd6ee1fab59774c94c1d6fb3c3d4b0
+      internalID: 1612769487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_52
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 193
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8df99867b3ad44380285737698e628
+      internalID: -666825714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_53
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 178
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994b668a336d8b9479ee548ace86c5f8
+      internalID: -2001552071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 178
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e4207013496ad40be06ea2fe75de4d
+      internalID: 1518071312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 178
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdde7546ed90fe42b234f5ce111c6fd
+      internalID: 777979214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_57
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 177
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cc23fae9f4a9b4bb6492c5d3f9b62e
+      internalID: 559450423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_58
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee077208abad9c4fbdf13aac89bcc71
+      internalID: 711525031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_61
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d729af37fc1acf409416f54a66f17ab
+      internalID: 1819581222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_62
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 177
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daa3b7e19086e041ace0af227d869e9
+      internalID: -1485877869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_63
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 177
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9928575563635c14db46799e74e756a5
+      internalID: -1301362779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_64
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 177
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286c4bcdc9b6c8b46bea1149098b9b19
+      internalID: 2133477128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_65
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d823f5af08c4d2e4089fd1f156b8b338
+      internalID: -109425164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_67
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46585b7b3a2488a4d900c6545795e58c
+      internalID: -396170453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_68
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d43db66b135d742bb6bbe1a4246861
+      internalID: 454854661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_69
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 160
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a51ae1b4f844143a1f86874efd48a1
+      internalID: -841711412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_70
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9163cbac4c39304a88651a14e24e9c5
+      internalID: -2119548739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_71
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 161
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5782c04791dc11042bd2ea3681fdedc1
+      internalID: -2061102934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_73
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0c8f3fcbe0ba242b1143b74717d40d
+      internalID: 1643187901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_74
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf9a8b37ddfd674a849721014618558
+      internalID: -623461559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_75
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 161
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6fddb75b389fd43adca6d242e6b97c
+      internalID: 1055032631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_76
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 161
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4558b3fd884620345892aa7ce42aa01f
+      internalID: 1156740299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_77
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 161
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc006de32ef50094f981fdf3c299c58f
+      internalID: -964718519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_78
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ee3155784fcb348af9cabd266d706a
+      internalID: -1547812677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 76
+        width: 120
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be717cede1545947890a08773804da8
+      internalID: 1482576536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_80
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 79
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3186de4fc89d4774885fbc21abf064db
+      internalID: 793026673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_81
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 82
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eb9ad8edbe9a340a81a45c711ef035
+      internalID: -1802642628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_82
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 86
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be8c7f77f4256f40ae49bc78f6fc992
+      internalID: 666317230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_83
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 105
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ac8e616fa1ef74b87b05f1a18ec39d
+      internalID: 1042379901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929c93f4f9ba5384e8748d8b17660e5f
+      internalID: -1039591955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_85
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 10
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df65121ed9fd9c489942ecba874fa18
+      internalID: 1208786888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_86
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 14
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b219fbddac53f9f4398ab00b02bff7b1
+      internalID: -1195470678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 249
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b84a0435ff89bc4eae36b5430fd7573
+      internalID: 1212467348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 249
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472b8d0161d26724795d6bdd237f19ee
+      internalID: 1910552459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 249
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2baeb9aca7c04458d1789754cdca25
+      internalID: -1016714905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 249
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3862f4c378cf4e47aac82725816578b
+      internalID: -499856252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 208
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b986a3e9fb729b4cbc76675a4832eb5
+      internalID: -452504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_16
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ff69352b0d21c42b21dd6f786d4e3b
+      internalID: -327096799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_36
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 194
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0d7437c7a762748b2609980b5ddb77
+      internalID: -550616636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e577baf26a3331e44ac17946c02b136f
+      internalID: 965274232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_40
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 194
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7be6c743c2c78a429b62cb04f7416fa
+      internalID: -1963957853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_47
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 178
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec8e2eab0555844db780f43ba26250e
+      internalID: 1186700039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 178
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a63a7e5fa2ced1469c894b1dae697dc
+      internalID: 3383629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_59
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3281aa839e76cb4faa25038036b09d5
+      internalID: -821621782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_60
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 162
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7042d1405b3d1f48813d55ce430709b
+      internalID: -1011629094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_66
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 162
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082c89ea91637ea49ba992c88ca415a9
+      internalID: -1150506748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_72
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 162
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863e54604cfdf7c4dbc8782a6a1d5b69
+      internalID: -143323125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_87
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 162
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2b64d28a0f454469320d1d6a88ef04
+      internalID: 941355721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 249
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e84135bc0a70a43ad32fc7cad22867
+      internalID: -1576350016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_89
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 249
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40feb45fef20d544cbec66531dcbfef7
+      internalID: 1522354999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_90
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 249
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c80e9d45b3a0f4f84e7d74da3ecd0e
+      internalID: 1006828308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_91
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 249
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc112f80abd6804881149526480f294
+      internalID: 1554873114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_92
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 249
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8b96b5daad99f4383f8586401d9212
+      internalID: 2104611162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_93
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 208
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e06e5396923bb4fb167fedbcc46ae1
+      internalID: 3198074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_94
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 193
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ac307980868d94c997c6b53bb21195
+      internalID: -1048594205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_95
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 193
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf7f85267069ff40aca3270007d5eeb
+      internalID: -1235560658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_96
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 193
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9a7396b096f6e4b9f78d6f07b77753
+      internalID: 154587621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_97
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 193
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708c92252ac4983479ef891d634b5ae0
+      internalID: -1802660676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_98
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 177
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6c96888eb87e644876a5d313db5b39
+      internalID: -218741061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_99
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 177
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60397562b9e4b6542bb966dd94041a5f
+      internalID: 1769848654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad31736e62b7ee4082904166000172b
+      internalID: 2097637907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8d493b936f4dc40bfd3403251d4979
+      internalID: 825000638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_102
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 160
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5797a5b0e8704e94d8e8dff71390d330
+      internalID: 735527639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_103
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7458a57d118c2c4aa6bd3d11b1abbdb
+      internalID: -52186336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_104
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 161
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7ed2d431d56844b9e50806a8b416fa
+      internalID: -1492513219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_105
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 208
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019fa1e6cc4f7c84295a6652235eac76
+      internalID: -1252102188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_106
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 249
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd28d4aeee9dcb4fa6957a9700b3a01
+      internalID: 1205920325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_107
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 249
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d56639330ac44c4bb72bb4f696316f5
+      internalID: -1801667444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_108
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 249
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3822e77a2ba5210448fdf2b836b9f258
+      internalID: 1322390386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_109
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 249
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1889582b8b47c1e4e9d986aea47f7387
+      internalID: -65355095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_110
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 193
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64740c962ef4d64eb799e6befcda826
+      internalID: -283265604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_111
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 193
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984530915736c81439c8ff4f9c899eed
+      internalID: 913269310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_112
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 193
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3620881fc6385304dafd4a519c013742
+      internalID: 1816511251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_113
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5d7517ed7e4824fa7c0442c56f496e
+      internalID: 847834044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_114
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 177
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e287ddceb8fbd814e9bd0b2747df9f12
+      internalID: 1930082319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_115
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 177
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97413b1bbcb50334e9b14aa60445e53b
+      internalID: 719534376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_116
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 193
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c5ac9985e201044b5ebbbf69c3ad45
+      internalID: 1230361645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_117
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 193
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e1053559f12f64283167584530d4ee
+      internalID: 177013290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_118
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3efeb4c1c18a24c93135069ac0c8d5
+      internalID: 57117943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_119
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 161
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aa80528fbc0b445b80722080eb1442
+      internalID: -360427154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_120
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 161
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2567bf25634c14b87c0ed0e037ee8a
+      internalID: 2092339979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_121
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc5899a5e78fe446854c9e3d150d1c8
+      internalID: -88455617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_122
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 193
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7d8bf75788d7f408ba81b34d6a69d7
+      internalID: -822382641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_123
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 193
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8ef45144040d547acee12d55ffe361
+      internalID: -1806020344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_124
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 177
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482244d44753b06468d75957a87274ec
+      internalID: -303980028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_125
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 177
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c09ac9de2da0a047a63749e47a91218
+      internalID: -1021508319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_126
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca503ecb36c778448161a7bd7f735c3
+      internalID: -18361050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_127
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6077db66099160468d829b303ed8fb8
+      internalID: 1024290571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_128
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18245e47bdfd8d41865f7ffe781e9a9
+      internalID: 1599920632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autumn_Forest_129
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 161
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0e9889c04da1f418fcbe0b3e01c6a6
+      internalID: -1991069471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 14cdbc4aee2748e44b6c38852fe6c33e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Autumn_Forest_0: 1440505575
+      Autumn_Forest_1: -2116182703
+      Autumn_Forest_10: -1016714905
+      Autumn_Forest_100: 2097637907
+      Autumn_Forest_101: 825000638
+      Autumn_Forest_102: 735527639
+      Autumn_Forest_103: -52186336
+      Autumn_Forest_104: -1492513219
+      Autumn_Forest_105: -1252102188
+      Autumn_Forest_106: 1205920325
+      Autumn_Forest_107: -1801667444
+      Autumn_Forest_108: 1322390386
+      Autumn_Forest_109: -65355095
+      Autumn_Forest_11: -772250688
+      Autumn_Forest_110: -283265604
+      Autumn_Forest_111: 913269310
+      Autumn_Forest_112: 1816511251
+      Autumn_Forest_113: 847834044
+      Autumn_Forest_114: 1930082319
+      Autumn_Forest_115: 719534376
+      Autumn_Forest_116: 1230361645
+      Autumn_Forest_117: 177013290
+      Autumn_Forest_118: 57117943
+      Autumn_Forest_119: -360427154
+      Autumn_Forest_12: -499856252
+      Autumn_Forest_120: 2092339979
+      Autumn_Forest_121: -88455617
+      Autumn_Forest_122: -822382641
+      Autumn_Forest_123: -1806020344
+      Autumn_Forest_124: -303980028
+      Autumn_Forest_125: -1021508319
+      Autumn_Forest_126: -18361050
+      Autumn_Forest_127: 1024290571
+      Autumn_Forest_128: 1599920632
+      Autumn_Forest_129: -1991069471
+      Autumn_Forest_13: -1685929690
+      Autumn_Forest_14: -452504
+      Autumn_Forest_15: 1145901353
+      Autumn_Forest_16: -327096799
+      Autumn_Forest_17: 1714551849
+      Autumn_Forest_18: -2121545323
+      Autumn_Forest_19: 1107539575
+      Autumn_Forest_2: 1378090319
+      Autumn_Forest_20: -1142483232
+      Autumn_Forest_21: 1102829380
+      Autumn_Forest_22: -1234003294
+      Autumn_Forest_23: -988400552
+      Autumn_Forest_24: -1067419089
+      Autumn_Forest_25: -971841098
+      Autumn_Forest_26: -1277842341
+      Autumn_Forest_27: 1936082063
+      Autumn_Forest_28: 831261398
+      Autumn_Forest_29: -437235916
+      Autumn_Forest_3: -443712380
+      Autumn_Forest_30: -2025484195
+      Autumn_Forest_31: -1006320570
+      Autumn_Forest_32: -873440586
+      Autumn_Forest_33: 1831483033
+      Autumn_Forest_34: 1570582058
+      Autumn_Forest_35: 1852754278
+      Autumn_Forest_36: -550616636
+      Autumn_Forest_37: -526470310
+      Autumn_Forest_38: 965274232
+      Autumn_Forest_39: 1493615043
+      Autumn_Forest_4: -234049313
+      Autumn_Forest_40: -1963957853
+      Autumn_Forest_41: -1307294119
+      Autumn_Forest_42: -1306807994
+      Autumn_Forest_43: 427422540
+      Autumn_Forest_44: 1839629507
+      Autumn_Forest_45: -1405418536
+      Autumn_Forest_46: 224500876
+      Autumn_Forest_47: 1186700039
+      Autumn_Forest_48: 948266363
+      Autumn_Forest_49: 1281364405
+      Autumn_Forest_5: -1145055999
+      Autumn_Forest_50: 807338334
+      Autumn_Forest_51: 1612769487
+      Autumn_Forest_52: -666825714
+      Autumn_Forest_53: -2001552071
+      Autumn_Forest_54: 1518071312
+      Autumn_Forest_55: 777979214
+      Autumn_Forest_56: 3383629
+      Autumn_Forest_57: 559450423
+      Autumn_Forest_58: 711525031
+      Autumn_Forest_59: -821621782
+      Autumn_Forest_6: 1212467348
+      Autumn_Forest_60: -1011629094
+      Autumn_Forest_61: 1819581222
+      Autumn_Forest_62: -1485877869
+      Autumn_Forest_63: -1301362779
+      Autumn_Forest_64: 2133477128
+      Autumn_Forest_65: -109425164
+      Autumn_Forest_66: -1150506748
+      Autumn_Forest_67: -396170453
+      Autumn_Forest_68: 454854661
+      Autumn_Forest_69: -841711412
+      Autumn_Forest_7: -301947656
+      Autumn_Forest_70: -2119548739
+      Autumn_Forest_71: -2061102934
+      Autumn_Forest_72: -143323125
+      Autumn_Forest_73: 1643187901
+      Autumn_Forest_74: -623461559
+      Autumn_Forest_75: 1055032631
+      Autumn_Forest_76: 1156740299
+      Autumn_Forest_77: -964718519
+      Autumn_Forest_78: -1547812677
+      Autumn_Forest_79: 1482576536
+      Autumn_Forest_8: -572446601
+      Autumn_Forest_80: 793026673
+      Autumn_Forest_81: -1802642628
+      Autumn_Forest_82: 666317230
+      Autumn_Forest_83: 1042379901
+      Autumn_Forest_84: -1039591955
+      Autumn_Forest_85: 1208786888
+      Autumn_Forest_86: -1195470678
+      Autumn_Forest_87: 941355721
+      Autumn_Forest_88: -1576350016
+      Autumn_Forest_89: 1522354999
+      Autumn_Forest_9: 1910552459
+      Autumn_Forest_90: 1006828308
+      Autumn_Forest_91: 1554873114
+      Autumn_Forest_92: 2104611162
+      Autumn_Forest_93: 3198074
+      Autumn_Forest_94: -1048594205
+      Autumn_Forest_95: -1235560658
+      Autumn_Forest_96: 154587621
+      Autumn_Forest_97: -1802660676
+      Autumn_Forest_98: -218741061
+      Autumn_Forest_99: 1769848654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

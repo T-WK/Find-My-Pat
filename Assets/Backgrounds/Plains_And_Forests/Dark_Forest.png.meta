@@ -1,0 +1,3109 @@
+fileFormatVersion: 2
+guid: b379b918ef5d600419af3721ed230c51
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark_Forest_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 249
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cb270928a76b74885e699b02088d26
+      internalID: -1755762864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 249
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f36283d99669a74fa3ab3ebea099e9d
+      internalID: -1807950806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 249
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da665d06b4682ea45a21d62a123c1ca9
+      internalID: 1914003986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 249
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a858b52622ad84d82a106733e6b731
+      internalID: -1079475569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 249
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fefddcef4bbc4409fc7536303ed505
+      internalID: -164260663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 249
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f71a182ee0e8047968642c0075cbca
+      internalID: -1929105753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 249
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b18cf1010e8da4b98417a90fe046d0
+      internalID: -894714862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_7
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 249
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb5d7ffe27c51345b1e2511860c3e4c
+      internalID: 1336415965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 249
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac3bce94d90afd43a3b7dd27b119228
+      internalID: 2036305145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 249
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea7f29ccacb8be469a8d50d944cda7d
+      internalID: -919858366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_10
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 249
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512c5904cde2b6f46acb1e60705988d6
+      internalID: -437778172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 249
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44652ab3c86505c418c9d6e074683b3d
+      internalID: -935266942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 249
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184557d461b26804a904126adc261cbc
+      internalID: -1860330036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 249
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa61e245a240f13449348efa88913e03
+      internalID: -1703258684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 249
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28005d0e71d2f664b9731ace9dd73adb
+      internalID: 12332883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_15
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 249
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71acf8c53ab96f64bb9f1e12fdf120c8
+      internalID: -889828888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 249
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebc338110b3d4247906207046fdab57
+      internalID: 732687924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_17
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 249
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7a7971e2d5bf546a19a4c72b21f01f
+      internalID: 1804769051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 249
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee5199b6be852a4786d227cf2079fd8
+      internalID: -1557573255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 249
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846eca75d46b37d4394ed0d70075245e
+      internalID: -111196918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_20
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 249
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec98d0623306ba94f92359dbbbe43438
+      internalID: 833855677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_21
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 249
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8788432e4924e43a362ee9581af78a
+      internalID: 2108404050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 249
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65a18d3c76ff9243b933077f0fbe7f8
+      internalID: 716698991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 232
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd60056ce0e894a4d80882a8c4a9a416
+      internalID: -435675198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_24
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 232
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd82c9f93e3f2840ae417e4de00b22f
+      internalID: -2052519657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_25
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 232
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb0d4b7280fd9444b3089aca0559516
+      internalID: -312294073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_26
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 232
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb612441e697936479472eaf5ad41a9f
+      internalID: 1515918707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 232
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce124b4a030421144890803793971ea0
+      internalID: 1149833409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 232
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af8f5cd91a07a44980c08d3e044117c
+      internalID: -1271900808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_29
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 232
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae702de82fdb43c4691dd73c569cfd7e
+      internalID: 378409195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_30
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 232
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c6dc0c568a77e4581658f989e2e3f9
+      internalID: -1679622843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_31
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 232
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddc75a70de502545b2e20fa4cd70625
+      internalID: 809536634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_32
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 232
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd70ab0d24898f44afbe358592f3fd6
+      internalID: 621991158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 210
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f501e9fc7e8328d4baebf5e78df2d679
+      internalID: -1087968741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_34
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 208
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13322e0cc22fcf248a42db7c3684a37e
+      internalID: -2059513646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 210
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e992e7d007c625f4d94895cd5eae9a21
+      internalID: -201190558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 210
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7542b36280c092647aa2893d48faaa58
+      internalID: 188797860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_39
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 210
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb6274e81a151f4494d23a1ea96f3b7
+      internalID: -1700503240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_41
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 210
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad952e8603aac5443bfcb65922da0e2b
+      internalID: -218838313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_42
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 208
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24a224a932232149b775d73a5083651
+      internalID: 1934443892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d907b6bb04be684eabb76c119ce08af
+      internalID: -946087464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 194
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaa7d3996432b947a6fb8bf8d33ce5d
+      internalID: -443739812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ed1b4101894434d857868a03262de6
+      internalID: -1894432253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_46
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 193
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bbfc1f9233bb74490fcda0e7b32d45
+      internalID: 296072476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_47
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 193
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beacae8f430c3104f8db11a168cb224c
+      internalID: -1387636266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_48
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 193
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d71acf9634c030458f83ec28844eec1
+      internalID: 950573537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_50
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 193
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b588aa858f11f40841bb42f8e51bc2
+      internalID: -1197575074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_51
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 193
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c7a253cf8bd3448a905757fb0c3eb6
+      internalID: 1544496497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_52
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 193
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae6021b0f8bc184e9b8c11f04ab0b56
+      internalID: 1927964829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_53
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 178
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61af8acf7234f06419fbe1312d59312f
+      internalID: 1246565302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_54
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 178
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7a7d6ba783b3f4fbb47dc7befe1456
+      internalID: 1506750514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 178
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66982f7abb767c48a6ca3d68bf98e3c
+      internalID: -1536883957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_57
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 177
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8a26c8fe56bf643b8c8a058c69b4c5
+      internalID: -1165115849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_58
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef88c5193d92734883f8179c5ca368c
+      internalID: -1621960781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_61
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712b72c83d0915f4889f85945acfb3aa
+      internalID: -547160587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_62
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 177
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4095408995dd103438b7351578222782
+      internalID: 1420918917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_63
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 177
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fedec9696947e24da55f65bcf60a4c4
+      internalID: -1285505102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_64
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 177
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1a1ce85a0292e42b97aaefde10e8a3
+      internalID: 904052172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_65
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556df36431e036e419afa0f0e9e35071
+      internalID: 118823889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_67
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 162
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04e7397cdc27314487b61e20f9c60d9
+      internalID: 805938346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_68
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fc1227e02ae0c4490b6d29dcf08666
+      internalID: -1575371866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_69
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 160
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6b07eaae2e0a648a2560c21c5490e5
+      internalID: -2029850441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_70
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 161
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78026dd3bb7e1394fba43c9a00632a66
+      internalID: 918931155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_71
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7825c9d17f97b8e4ea5317795913b7da
+      internalID: -2105226881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_73
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c40555dc443a6245937981e766a96b7
+      internalID: -1982797217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_74
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8429697e91779846b7bdc69a7012cbc
+      internalID: 1384812102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_75
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 161
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76e7afd5af70a140986c371f700f70b
+      internalID: 1216564489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_76
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 161
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e32f6e992683ab4dae78fdc75ca8034
+      internalID: 423209832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_77
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 161
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add4f109a1b13e2438c885a506bf1989
+      internalID: -1935640817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_78
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7483216900dd2949b9b75e53e8cba72
+      internalID: -1093633811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_79
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 76
+        width: 120
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60256d477823a744aaa4db67798aed3c
+      internalID: 1262669444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_80
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 79
+        width: 73
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08baf042d0e83b48bc79367e17feb13
+      internalID: -1004651629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_81
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 82
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2416e7981bc6ba4384c51af7a3622f0
+      internalID: 1798775969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_82
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 86
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b56e189efb81f4da7e1ec1222f9cc2
+      internalID: 603558029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_83
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 105
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf57830943770394e9b2078384e7f667
+      internalID: -1716097131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7635a7a77884c804686c1d749d526a15
+      internalID: 537662171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_85
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 10
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2434baf644e8119429f49c703750cb66
+      internalID: 926889079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_86
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 14
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed76d8917970918468926148f4c1647c
+      internalID: 1084375312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 249
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0de241656b28d2479f28538b1d86d80
+      internalID: 1025718695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_38
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 249
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d56a702d120e84e875b4146cc93c99
+      internalID: 1761199590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 208
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c6b44aeb4f881419ec4618194991b1
+      internalID: -1965647060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_49
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 194
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f46ca2397a6e242a6afcfe00852b03
+      internalID: 2008299597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_56
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 162
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2762a7368f045f94cb1cd834714addad
+      internalID: 505797033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_59
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb77531134af5648b5e31b13ca3853d
+      internalID: -1497634829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_60
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 194
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd6f30a1b5e83e45bc6b6f898530ba0
+      internalID: 242764847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_66
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 194
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72002de173e4ce47b8fe4ad226990f0
+      internalID: -644001676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_72
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adefe18b0ba02c40be922558b4f57b5
+      internalID: -1665132885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_87
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 178
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d688b59c69e3d42b141297cde23d80
+      internalID: -1170647263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_88
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 178
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34fbebec0949284da1b567baad77771
+      internalID: 1184406444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_89
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 162
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d49dfc4af173547b98ff05a8192ca2
+      internalID: 2091922786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_90
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 162
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4745f2a52cf0740b1b055794e5091d
+      internalID: -1568465740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_91
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 162
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d89d04d13847a4e989ce3130f8b5b9
+      internalID: 1108834681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_92
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 193
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5def29da7c97934c94a54dcb0995d9a
+      internalID: 1086351439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_93
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 193
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0b260fdd2f33d448cd3764f6d6352f
+      internalID: -762857081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_94
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 194
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b24008e900ce3d4f91802dcbf823098
+      internalID: 1770085054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_95
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 177
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6da8626bfede948ab2c33850cde3a7
+      internalID: 1808677602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_96
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 177
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de5bf9a64d3bf642860075a0f4cabf8
+      internalID: -624088637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_97
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 176
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d5ebc55aab06546bba06f29e159131
+      internalID: 1083221490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_98
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618084abe38d3f74a9d9cee4ff01c3c4
+      internalID: 1846376205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_99
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 161
+        width: 3
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8536ed53414bdaa44b20aab270222cc9
+      internalID: 82749487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_100
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 160
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dacaf6720818904f89c3d16da6b3298
+      internalID: -857920407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23854ee207788a245866a1766b0d2018
+      internalID: 922584317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_102
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 193
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3fd538c178b3744a544d21564baaf7
+      internalID: 760109885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_103
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 208
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837fbff6d7a19ef4a97ad4041160eda1
+      internalID: -843283026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_104
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 249
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5623ecdcbc7b1cf4880a9e31c229b099
+      internalID: -1652030002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_105
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 249
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3bed197e427454cb4373912deb5ccd
+      internalID: 485949426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_106
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 249
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140bc5c9fc420a949b5caea020f3cb5e
+      internalID: 1781515717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_107
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 249
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886570847067f1243ac4db814dc0837b
+      internalID: -328019756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_108
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 249
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24edd7bd773de8e40ae08145a7ad1298
+      internalID: 1117108911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_109
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 208
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be661c732faaab44fb3a727392278c00
+      internalID: -1247248089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_110
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 193
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9a7accd9499f542a6fa14e0e9dac28
+      internalID: -1628965484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_111
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 193
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2472e16a09ebd49a2cf9f5f7272463
+      internalID: 533900343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_112
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 193
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d23a75649677c49ae1a991a07d0087
+      internalID: -2128831736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_113
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 177
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807e75ce501dc1c499a34b93aaa0bf24
+      internalID: -393497862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_114
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 177
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c1a09237b7c7442baf5a67f5965685
+      internalID: 1088435085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_115
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 177
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b17e992b4d213479b14c8c04b67c36
+      internalID: 1532132999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_116
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 161
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41c837753a48e54b8c1bcb121056ad2
+      internalID: -1435933591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_117
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695c1c692bae4704ba1097cd6aad8892
+      internalID: 702846605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_118
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 161
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d16193bd3f836c41876e3b55a45e197
+      internalID: 1655841398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_119
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 193
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f45df91201dcb4cb4c7bb586dc1e0d
+      internalID: 208126636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_120
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2265569d32ed7458da63a97d6f90e9
+      internalID: 319460373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_121
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 193
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29133b1898d41e7469af1053316c278f
+      internalID: -1671063858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_122
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 193
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73433e1509403f04892bc43f11722b2e
+      internalID: -1296451638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_123
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 193
+        width: 5
+        height: 3
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdc12fd11d52344c9e6a9206ed4b673
+      internalID: -1437443380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_124
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 177
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67680c11eed400044a41704a86281b8d
+      internalID: 1113635468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_125
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 177
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8830d5fd502ddec43abbdad0f62a73cb
+      internalID: -536739763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_126
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 177
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bd136db180fc2459e01123d94bc364
+      internalID: -2104402292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_127
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 161
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f41cafc9e7b08409338bceb44cf7c0
+      internalID: -1499984971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_128
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 161
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c67dbe546f00747881711370611b9d
+      internalID: -409275500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_Forest_129
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092398348c0d7e640bb42b2c8497596d
+      internalID: -903343584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 43eea428a6361b541838866421e0c309
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Dark_Forest_0: -1755762864
+      Dark_Forest_1: -1807950806
+      Dark_Forest_10: -437778172
+      Dark_Forest_100: -857920407
+      Dark_Forest_101: 922584317
+      Dark_Forest_102: 760109885
+      Dark_Forest_103: -843283026
+      Dark_Forest_104: -1652030002
+      Dark_Forest_105: 485949426
+      Dark_Forest_106: 1781515717
+      Dark_Forest_107: -328019756
+      Dark_Forest_108: 1117108911
+      Dark_Forest_109: -1247248089
+      Dark_Forest_11: -935266942
+      Dark_Forest_110: -1628965484
+      Dark_Forest_111: 533900343
+      Dark_Forest_112: -2128831736
+      Dark_Forest_113: -393497862
+      Dark_Forest_114: 1088435085
+      Dark_Forest_115: 1532132999
+      Dark_Forest_116: -1435933591
+      Dark_Forest_117: 702846605
+      Dark_Forest_118: 1655841398
+      Dark_Forest_119: 208126636
+      Dark_Forest_12: -1860330036
+      Dark_Forest_120: 319460373
+      Dark_Forest_121: -1671063858
+      Dark_Forest_122: -1296451638
+      Dark_Forest_123: -1437443380
+      Dark_Forest_124: 1113635468
+      Dark_Forest_125: -536739763
+      Dark_Forest_126: -2104402292
+      Dark_Forest_127: -1499984971
+      Dark_Forest_128: -409275500
+      Dark_Forest_129: -903343584
+      Dark_Forest_13: -1703258684
+      Dark_Forest_14: 12332883
+      Dark_Forest_15: -889828888
+      Dark_Forest_16: 732687924
+      Dark_Forest_17: 1804769051
+      Dark_Forest_18: -1557573255
+      Dark_Forest_19: -111196918
+      Dark_Forest_2: 1914003986
+      Dark_Forest_20: 833855677
+      Dark_Forest_21: 2108404050
+      Dark_Forest_22: 716698991
+      Dark_Forest_23: -435675198
+      Dark_Forest_24: -2052519657
+      Dark_Forest_25: -312294073
+      Dark_Forest_26: 1515918707
+      Dark_Forest_27: 1149833409
+      Dark_Forest_28: -1271900808
+      Dark_Forest_29: 378409195
+      Dark_Forest_3: -1079475569
+      Dark_Forest_30: -1679622843
+      Dark_Forest_31: 809536634
+      Dark_Forest_32: 621991158
+      Dark_Forest_33: -1087968741
+      Dark_Forest_34: -2059513646
+      Dark_Forest_35: -201190558
+      Dark_Forest_36: 1025718695
+      Dark_Forest_37: 188797860
+      Dark_Forest_38: 1761199590
+      Dark_Forest_39: -1700503240
+      Dark_Forest_4: -164260663
+      Dark_Forest_40: -1965647060
+      Dark_Forest_41: -218838313
+      Dark_Forest_42: 1934443892
+      Dark_Forest_43: -946087464
+      Dark_Forest_44: -443739812
+      Dark_Forest_45: -1894432253
+      Dark_Forest_46: 296072476
+      Dark_Forest_47: -1387636266
+      Dark_Forest_48: 950573537
+      Dark_Forest_49: 2008299597
+      Dark_Forest_5: -1929105753
+      Dark_Forest_50: -1197575074
+      Dark_Forest_51: 1544496497
+      Dark_Forest_52: 1927964829
+      Dark_Forest_53: 1246565302
+      Dark_Forest_54: 1506750514
+      Dark_Forest_55: -1536883957
+      Dark_Forest_56: 505797033
+      Dark_Forest_57: -1165115849
+      Dark_Forest_58: -1621960781
+      Dark_Forest_59: -1497634829
+      Dark_Forest_6: -894714862
+      Dark_Forest_60: 242764847
+      Dark_Forest_61: -547160587
+      Dark_Forest_62: 1420918917
+      Dark_Forest_63: -1285505102
+      Dark_Forest_64: 904052172
+      Dark_Forest_65: 118823889
+      Dark_Forest_66: -644001676
+      Dark_Forest_67: 805938346
+      Dark_Forest_68: -1575371866
+      Dark_Forest_69: -2029850441
+      Dark_Forest_7: 1336415965
+      Dark_Forest_70: 918931155
+      Dark_Forest_71: -2105226881
+      Dark_Forest_72: -1665132885
+      Dark_Forest_73: -1982797217
+      Dark_Forest_74: 1384812102
+      Dark_Forest_75: 1216564489
+      Dark_Forest_76: 423209832
+      Dark_Forest_77: -1935640817
+      Dark_Forest_78: -1093633811
+      Dark_Forest_79: 1262669444
+      Dark_Forest_8: 2036305145
+      Dark_Forest_80: -1004651629
+      Dark_Forest_81: 1798775969
+      Dark_Forest_82: 603558029
+      Dark_Forest_83: -1716097131
+      Dark_Forest_84: 537662171
+      Dark_Forest_85: 926889079
+      Dark_Forest_86: 1084375312
+      Dark_Forest_87: -1170647263
+      Dark_Forest_88: 1184406444
+      Dark_Forest_89: 2091922786
+      Dark_Forest_9: -919858366
+      Dark_Forest_90: -1568465740
+      Dark_Forest_91: 1108834681
+      Dark_Forest_92: 1086351439
+      Dark_Forest_93: -762857081
+      Dark_Forest_94: 1770085054
+      Dark_Forest_95: 1808677602
+      Dark_Forest_96: -624088637
+      Dark_Forest_97: 1083221490
+      Dark_Forest_98: 1846376205
+      Dark_Forest_99: 82749487
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
